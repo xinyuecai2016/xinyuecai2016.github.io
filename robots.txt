@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://sptj.github.io/sitemap.xml

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>sptj</title>
+    <link href="https://sptj.github.io/feed.xml" rel="self" />
+    <link href="https://sptj.github.io" />
+    <updated>2021-08-01T22:56:24+08:00</updated>
+    <author>
+        <name>sptj</name>
+    </author>
+    <id>https://sptj.github.io</id>
+
+    <entry>
+        <title>asdf</title>
+        <author>
+            <name>sptj</name>
+        </author>
+        <link href="https://sptj.github.io/asdf-2.html"/>
+        <id>https://sptj.github.io/asdf-2.html</id>
+
+        <updated>2021-08-01T22:41:46+08:00</updated>
+            <summary>
+                <![CDATA[
+                    asdf 
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>asdf</p>
+<figure class="post__image"><img loading="lazy"  src="https://sptj.github.io/media/posts/7/hello-gridea.png" sizes="(max-width: 48em) 100vw, 768px" srcset="https://sptj.github.io/media/posts/7/responsive/hello-gridea-xs.png 300w ,https://sptj.github.io/media/posts/7/responsive/hello-gridea-sm.png 480w ,https://sptj.github.io/media/posts/7/responsive/hello-gridea-md.png 768w ,https://sptj.github.io/media/posts/7/responsive/hello-gridea-lg.png 1024w ,https://sptj.github.io/media/posts/7/responsive/hello-gridea-xl.png 1360w ,https://sptj.github.io/media/posts/7/responsive/hello-gridea-2xl.png 1600w"  alt="" width="1200" height="675"></figure>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>武夷山之行</title>
+        <author>
+            <name>sptj</name>
+        </author>
+        <link href="https://sptj.github.io/wu-yi-shan-zhi-xing-2.html"/>
+        <id>https://sptj.github.io/wu-yi-shan-zhi-xing-2.html</id>
+
+        <updated>2021-08-01T22:56:24+08:00</updated>
+            <summary>
+                <![CDATA[
+                    阿斯蒂芬 
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>阿斯蒂芬</p>
+<p><figure class="post__image"><img loading="lazy" src="" data-is-external-image="true"  alt="" /></figure>
+<figure class="post__image"><img loading="lazy" src="https://sptj.github.io/media/posts/6/hello-gridea-2.png" sizes="(max-width: 48em) 100vw, 768px" srcset="https://sptj.github.io/media/posts/6/responsive/hello-gridea-2-xs.png 300w ,https://sptj.github.io/media/posts/6/responsive/hello-gridea-2-sm.png 480w ,https://sptj.github.io/media/posts/6/responsive/hello-gridea-2-md.png 768w ,https://sptj.github.io/media/posts/6/responsive/hello-gridea-2-lg.png 1024w ,https://sptj.github.io/media/posts/6/responsive/hello-gridea-2-xl.png 1360w ,https://sptj.github.io/media/posts/6/responsive/hello-gridea-2-2xl.png 1600w"  alt="Image description" width="1200" height="675" /></figure></p>
+
+            ]]>
+        </content>
+    </entry>
+</feed>
