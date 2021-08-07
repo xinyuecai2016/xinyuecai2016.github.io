@@ -1,6 +1,6 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "ABC",
+    "title": "Xinyue Cai",
     "description": "",
     "home_page_url": "https://sptj.github.io",
     "feed_url": "https://sptj.github.io/feed.json",
@@ -10,32 +10,32 @@
     },
     "items": [
         {
-            "id": "https://sptj.github.io/nei-bu-wang-zhi-dao-hang.html",
-            "url": "https://sptj.github.io/nei-bu-wang-zhi-dao-hang.html",
-            "title": "内部网址导航",
-            "summary": "all",
-            "content_html": "<p><a href=\"#INTERNAL_LINK#/post/null\"></a><a href=\"roma.huawei.com/csb/#/hec/eiwizard/training/noah.cv.perception.all/trainingjob\">all</a></p>",
+            "id": "https://sptj.github.io/guan-yu-wo.html",
+            "url": "https://sptj.github.io/guan-yu-wo.html",
+            "title": "关于我",
+            "summary": "我是诺亚方舟实验室的一名算法研究院，主要的研究方向是自动驾驶感知算法中的车道线检测。",
+            "content_html": "<p>我是诺亚方舟实验室的一名算法研究院，主要的研究方向是自动驾驶感知算法中的车道线检测。</p>",
             "author": {
                 "name": "shark"
             },
             "tags": [
             ],
-            "date_published": "2021-08-07T12:33:36+08:00",
-            "date_modified": "2021-08-07T12:33:36+08:00"
+            "date_published": "2021-08-07T13:25:16+08:00",
+            "date_modified": "2021-08-07T13:28:07+08:00"
         },
         {
             "id": "https://sptj.github.io/wu-yi-shan-zhi-xing.html",
             "url": "https://sptj.github.io/wu-yi-shan-zhi-xing.html",
             "title": "武夷山之行",
-            "summary": "我们顶着台风，去往武夷山 ",
-            "content_html": "<p>我们顶着台风，去往武夷山</p>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://sptj.github.io/media/posts/8/mmexport1627829463090.jpg\" sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://sptj.github.io/media/posts/8/responsive/mmexport1627829463090-xs.jpg 300w ,https://sptj.github.io/media/posts/8/responsive/mmexport1627829463090-sm.jpg 480w ,https://sptj.github.io/media/posts/8/responsive/mmexport1627829463090-md.jpg 768w ,https://sptj.github.io/media/posts/8/responsive/mmexport1627829463090-lg.jpg 1024w ,https://sptj.github.io/media/posts/8/responsive/mmexport1627829463090-xl.jpg 1360w ,https://sptj.github.io/media/posts/8/responsive/mmexport1627829463090-2xl.jpg 1600w\"  alt=\"\" width=\"5408\" height=\"3680\"></figure>",
+            "summary": "小时候不曾出去玩过。直到工作后才有机会大家一去出去玩。这些年每年夏天，我们都会组织一次出去，趁着周末假期，我们就跑到上海周边的一些地方去玩儿。 今年（2021年）原定的是7月24日~7月25日去武夷山玩。当时台风烟花正徘徊在东海上，距离我们不远也不近。预估着登录那天刚好是7月25日，我们便去了。 ",
+            "content_html": "<p>小时候不曾出去玩过。直到工作后才有机会大家一去出去玩。这些年每年夏天，我们都会组织一次出去，趁着周末假期，我们就跑到上海周边的一些地方去玩儿。</p>\n<p>今年（2021年）原定的是7月24日~7月25日去武夷山玩。当时台风烟花正徘徊在东海上，距离我们不远也不近。预估着登录那天刚好是7月25日，我们便去了。</p>\n<p> </p>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://sptj.github.io/media/posts/8/mmexport1627829463090.jpg\" sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://sptj.github.io/media/posts/8/responsive/mmexport1627829463090-xs.jpg 300w ,https://sptj.github.io/media/posts/8/responsive/mmexport1627829463090-sm.jpg 480w ,https://sptj.github.io/media/posts/8/responsive/mmexport1627829463090-md.jpg 768w ,https://sptj.github.io/media/posts/8/responsive/mmexport1627829463090-lg.jpg 1024w ,https://sptj.github.io/media/posts/8/responsive/mmexport1627829463090-xl.jpg 1360w ,https://sptj.github.io/media/posts/8/responsive/mmexport1627829463090-2xl.jpg 1600w\"  alt=\"\" width=\"5408\" height=\"3680\"></figure>",
             "author": {
                 "name": "shark"
             },
             "tags": [
             ],
             "date_published": "2021-08-01T23:56:56+08:00",
-            "date_modified": "2021-08-02T00:00:37+08:00"
+            "date_modified": "2021-08-07T13:24:23+08:00"
         }
     ]
 }
